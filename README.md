@@ -1,6 +1,6 @@
 # Bus Demand Prediction
 
-TASK: Forecasting bus demand in Banana Republic municipalities.
+### TASK: Forecasting bus demand in Banana Republic municipalities.
 The central urban planning committee of Banana Republic asked you to help them with the forecast of bus demands of municipalities. And they provide a nice dataset to support you (https://pi.works/3w8IJbV). 
 
 
@@ -20,3 +20,8 @@ The committee says that they will use the last two weeks (starting from 2017-08-
 
 
 Keep in mind that the dataset has missing data, hence a suitable missing data interpolation would be useful.
+
+
+### SOLUTION
+* Simple Baseline Solution[]
+* Complex Solution(SARIMAX)[]
