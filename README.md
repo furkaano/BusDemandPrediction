@@ -23,5 +23,5 @@ Keep in mind that the dataset has missing data, hence a suitable missing data in
 
 
 ### SOLUTION
-* [Simple Baseline Solution](baseline solution)
-* Complex Solution(SARIMAX)[]
+* [Simple Baseline Solution](baseline_solution.ipynb)
+* [Complex Solution(SARIMAX)](complex_solution.ipynb)
